@@ -1,0 +1,13 @@
+{
+  "name": "manipulacion-de-arrays",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Miguel Angel Toledo Santiago <geaglts@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server --port=3000 --no-browser"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
